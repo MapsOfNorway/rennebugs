@@ -18,3 +18,5 @@ If you encounter a bug or something that can be changed for the better, please p
 Even if the minimap is visible, I'm not able to figure out what "it" is.
 Even if it's obvious in the screenshot, a clear description is the best.
 To enhance my focus so I don't have to second guess and interpret the text, please also draw on the screenshot if necessary.
+
+# [Submit your bugs here](https://github.com/MapsOfNorway/rennebugs)
