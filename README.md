@@ -7,6 +7,7 @@ even though it has its shortcomings with lack of models, for now.
 ----
 
 If you encounter a bug or something that can be changed for the better, please provide
+- What version of the map/buildings pack (you should stay current for the best support)
 - A good description of what I am supposed to look for
 - A screenshot of WHERE (including the minimap with coordinates visible)
 - If necessary, please draw arrows, circles etc. to help me narrow down what to fix.
